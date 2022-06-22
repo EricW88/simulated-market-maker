@@ -1,0 +1,3 @@
+/Users/admin/Documents/Programming/market-maker/bin/CMakeFiles/marketdata_ex.dir
+/Users/admin/Documents/Programming/market-maker/bin/CMakeFiles/edit_cache.dir
+/Users/admin/Documents/Programming/market-maker/bin/CMakeFiles/rebuild_cache.dir
